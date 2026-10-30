@@ -88,14 +88,6 @@ Here are some projects I've worked on during my learning journey:
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teresayuardy&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teresayuardy&layout=compact&theme=rose_pine&hide_border=true)
-
----
-
 ### 🌸 Let's Connect!
 
 I'm always open to learning, collaborating, and connecting with people who share an interest in technology.
