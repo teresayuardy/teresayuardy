@@ -1,8 +1,8 @@
-# 🌷 Hi, I'm Tere!
+# 🌷 Hi, I'm Teresa!
 
 ### Information Systems Student | Tech Enthusiast | Aspiring QA Engineer
 
-Welcome to my GitHub profile! I'm Teresa, an Information Systems student at **Tarumanagara University**.
+Welcome to my GitHub profile! I'm Teresa Yuardy, an undergraduate Information Systems student at **Tarumanagara University**.
 
 I'm passionate about technology, software development, and exploring how technology can solve real-world problems. I enjoy learning new things, building projects, and continuously improving my technical skills.
 
